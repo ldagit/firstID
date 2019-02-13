@@ -23,7 +23,6 @@
 
 # IntellijIdea files
 *.iml
-*.xml
 .idea
 out
 
